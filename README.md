@@ -5,9 +5,9 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 
 ---
 #### August 26th - September 9th, 2020
-- In progress - [Designing ReSTful APIs](https://www.linkedin.com/learning/designing-restful-apis) - Studying up and getting more outside perspective.
 - In progress - [Cloud Native Development with Node.js, Docker, and Kubernetes](https://www.linkedin.com/learning/cloud-native-development-with-node-js-docker-and-kubernetes) - Spinning up on K8s!
 - Reading - [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
+- 🎉 - Completed - [Designing ReSTful APIs](https://www.linkedin.com/learning/designing-restful-apis) - Studying up and getting more outside perspective.
 - 🎉 - Completed - [Learning REST APIs](https://www.linkedin.com/learning/learning-rest-apis/) - Refresher on REST basics. Some great nuggets in here!
 - 🎉 - Completed - [Microservices Foundations](https://www.linkedin.com/learning/microservices-foundations/) - Refresher on Microservice Concepts
 - 🎉 - Completed - [Software Architecture Foundations](https://www.linkedin.com/learning/software-architecture-foundations/the-importance-of-software-architecture) - Refresher on Architecture Concepts
