@@ -5,8 +5,8 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 
 ---
 #### September 10th - September 24th, 2020
-- In progress - [Web Security: OAuth and OpenID Connect](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-2018)
 - In progress - [API Testing and Validation](https://www.linkedin.com/learning/api-testing-and-validation)
+- 🎉 - Completed - [Web Security: OAuth and OpenID Connect](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-2018)
 
 #### August 26th - September 9th, 2020
 - In progress - [Cloud Native Development with Node.js, Docker, and Kubernetes](https://www.linkedin.com/learning/cloud-native-development-with-node-js-docker-and-kubernetes) - Spinning up on K8s!
