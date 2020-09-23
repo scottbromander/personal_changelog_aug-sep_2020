@@ -5,6 +5,8 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 
 ---
 #### September 10th - September 24th, 2020
+- In progress - [Learning Django](https://www.linkedin.com/learning/learning-django-2/)
+- In progress - [Node JS Design Patterns](https://www.linkedin.com/learning/node-js-design-patterns)
 - In progress - [API Testing and Validation](https://www.linkedin.com/learning/api-testing-and-validation)
 - 🎉 - Completed - [Software Architecture Patterns for Developers](https://www.linkedin.com/learning/software-architecture-patterns-for-developers)
 - 🎉 - Completed - [Web Security: OAuth and OpenID Connect](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-2018)
